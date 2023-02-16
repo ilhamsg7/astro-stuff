@@ -1,0 +1,19 @@
+---
+import Header from "../components/header/header";
+import Footer from "../components/footer/footer";
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="src/assets/icons/favicon-f1.png" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Formula 1 | The Pinnacle of Motorsport</title>
+	</head>
+	<body>
+		<Header />
+        <slot />
+        <Footer />
+	</body>
+</html>
