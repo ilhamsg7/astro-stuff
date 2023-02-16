@@ -1,4 +1,4 @@
-import { FaHandPaper, FaHandsHelping, FaSync, FaUsers } from "react-icons/fa";
+// import { FaHandPaper, FaHandsHelping, FaSync, FaUsers } from "react-icons/fa";
 
 export default function Hero() {
   return (
@@ -24,7 +24,7 @@ export default function Hero() {
             <div className="relative pl-16">
               <dt className="text-base font-semibold leading-7 text-red-500">
                 <div className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-rose-600">
-                  <FaHandPaper className="text-white" />
+                  {/* <FaHandPaper className="text-white" /> */}
                 </div>
                 Inclusion
               </dt>
@@ -38,7 +38,7 @@ export default function Hero() {
             <div className="relative pl-16">
               <dt className="text-base font-semibold leading-7 text-red-500">
                 <div className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-rose-600">
-                  <FaHandsHelping className="text-white" />
+                  {/* <FaHandsHelping className="text-white" /> */}
                 </div>
                 Diversity
               </dt>
@@ -54,7 +54,7 @@ export default function Hero() {
             <div className="relative pl-16">
               <dt className="text-base font-semibold leading-7 text-red-500">
                 <div className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-rose-600">
-                  <FaSync className="text-white" />
+                  {/* <FaSync className="text-white" /> */}
                 </div>
                 Sustainability
               </dt>
@@ -68,7 +68,7 @@ export default function Hero() {
             <div className="relative pl-16">
               <dt className="text-base font-semibold leading-7 text-red-500">
                 <div className="absolute top-0 left-0 flex h-10 w-10 items-center justify-center rounded-lg bg-rose-600">
-                  <FaUsers className="text-white" />
+                  {/* <FaUsers className="text-white" /> */}
                 </div>
                 Community
               </dt>
