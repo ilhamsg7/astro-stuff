@@ -1,4 +1,4 @@
-import Partner from "./partner";
+// import Partner from "./partner";
 
 export function getYear() {
     return new Date().getFullYear();
@@ -7,7 +7,7 @@ export function getYear() {
 export default function Footer() {
     return (
       <>
-        <Partner />
+        {/* <Partner /> */}
         <footer className="footer p-10 bg-base-200 text-base-content">
           <div>
             <span className="footer-title">Services</span>
