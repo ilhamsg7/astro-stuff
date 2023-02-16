@@ -35,7 +35,7 @@ export default function Footer() {
             <img
               height="100"
               width="100"
-              src="src/assets/f1-logo/F1 Logo White.png"
+              src="assets/f1-logo/F1 Logo White.png"
               alt="F1-Logo-White"
             />
             <p>

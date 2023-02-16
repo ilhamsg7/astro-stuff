@@ -43,7 +43,7 @@ export default function Header() {
             <img
               height="75"
               width="75"
-              src="src/assets/f1-logo/F1 Logo White.png"
+              src="assets/f1-logo/F1 Logo White.png"
               alt="F1-Logo-White"
             />
           </a>

@@ -34,16 +34,16 @@ export default function Carousel() {
             className="mySwiper bg-gray-700"
         >
                 <SwiperSlide>
-                        <img src="src/assets/images/1.jpg" className="w-full opacity-70 bg-gray-500 object-cover h-96 object-bottom" />
+                        <img src="assets/images/1.jpg" className="w-full opacity-70 bg-gray-500 object-cover h-96 object-bottom" />
                 </SwiperSlide>
                 <SwiperSlide>
-                        <img src="src/assets/images/2.jpg" className="w-full opacity-70 bg-gray-500 object-cover h-96 object-bottom" />
+                        <img src="assets/images/2.jpg" className="w-full opacity-70 bg-gray-500 object-cover h-96 object-bottom" />
                 </SwiperSlide>
                 <SwiperSlide>
-                        <img src="src/assets/images/3.jpg" className="w-full opacity-70 bg-gray-500 object-cover h-96 object-bottom" />
+                        <img src="assets/images/3.jpg" className="w-full opacity-70 bg-gray-500 object-cover h-96 object-bottom" />
                 </SwiperSlide>
                 <SwiperSlide>
-                        <img src="src/assets/images/4.jpeg" className="w-full opacity-70 bg-gray-500 object-cover h-96 object-bottom" />
+                        <img src="assets/images/4.jpeg" className="w-full opacity-70 bg-gray-500 object-cover h-96 object-bottom" />
                 </SwiperSlide>
         </Swiper>
       </>

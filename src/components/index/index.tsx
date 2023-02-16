@@ -5,7 +5,7 @@ export default function Index() {
         <>
             <div
                 className="hero min-h-screen"
-                style={{ backgroundImage: `url("src/assets/images/Hero-Image.jpeg")` }}
+                style={{ backgroundImage: `url("/assets/images/Hero-Image.jpeg")` }}
             >
                 <div className="hero-overlay bg-opacity-60"></div>
                 <div className="hero-content text-center text-neutral-content">
